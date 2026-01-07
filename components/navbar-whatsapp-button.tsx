@@ -8,7 +8,7 @@ export default function NavbarWhatsappButton() {
   const [isHovered, setIsHovered] = useState(false)
 
   // Número de WhatsApp (reemplazar con el número real)
-  const phoneNumber = "7442723073"
+  const phoneNumber = "+527442723073"
 
   // Mensaje predeterminado (opcional)
   const message = "Hola! Me gustaría obtener más información sobre sus servicios."
