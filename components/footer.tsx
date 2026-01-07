@@ -39,7 +39,7 @@
                </li>
                <li className="flex items-center">
                  <Phone size={16} className="mr-2 text-blue-500" />
-                 <span>+52 (984) 2531783</span>
+                 <span>+52 (744) 2723073</span>
                </li>
              </ul>
              <div className="mt-4">
